@@ -12,8 +12,15 @@ https://linuxjourney.com/lesson/the-shell
 
 
 ## Editing text files
+Most jobs you run on Hyak will involve editing text files with configuration information. Since there is no Micrsoft Word on Hyak, you will need a command line text editor. This is a program that lets you edit a text file from the terminal. On Hyak, you can use Vim, Emacs, or Nano. Each has its advantages and drawbacks. We suggest picking one and becoming comfortable with it. 
 
+Intro to Vim and Emacs:
 https://linuxjourney.com/lesson/regular-expressions-regex
+Intro to Nano:
+https://linuxize.com/post/how-to-use-nano-text-editor/
+
+
+When working with files, you may also need to modify file permissions:
 https://linuxjourney.com/lesson/file-permissions
 
 ## Accessing remote machines with SSH
