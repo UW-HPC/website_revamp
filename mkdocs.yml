@@ -1,0 +1,30 @@
+site_name: RCCatUW
+nav:
+  - Home: index.md
+  - 'Joining RCC': getting_started.md
+  - 'Hyak': 
+    - About: hyak.md
+    - 'Getting Access': hyak_access.md
+  - 'Cloud': cloud.md
+  - Events: events.md
+  - People: people.md
+  - Contact: contact.md
+#site_url: http://localhost/RCCatUW
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  #palette: 
+  #  scheme: default
+  #  primary: deep purple
+  #  accent: amber
+  
+extra:
+  social:
+    - icon: fontawesome/brands/slack
+      link: https://join.slack.com/t/uw-rcc/shared_invite/zt-2l7ab48ar-S_SbfLiCsdpF~ofbCR0yIg
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:hpcc@uw.edu
+extra_css:
+  - stylesheets/extra.css
+
