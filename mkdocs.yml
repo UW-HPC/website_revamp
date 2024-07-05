@@ -1,19 +1,22 @@
 site_name: RCCatUW
 nav:
   - Home: index.md
-  - 'Joining RCC': getting_started.md
   - 'Hyak': 
     - About: hyak.md
     - 'Getting Access': hyak_access.md
+    - 'Terms of Service': hyak_TOS.md
+    - Prereqs: 'prerequisites.md'
   - 'Cloud': cloud.md
   - Events: events.md
   - People: people.md
   - Contact: contact.md
+  - Governance: RCC_governance.md
 #site_url: http://localhost/RCCatUW
 theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.footer
   #palette: 
   #  scheme: default
   #  primary: deep purple
@@ -27,4 +30,7 @@ extra:
       link: mailto:hpcc@uw.edu
 extra_css:
   - stylesheets/extra.css
+
+markdown_extensions:
+    - pymdownx.blocks.html
 
