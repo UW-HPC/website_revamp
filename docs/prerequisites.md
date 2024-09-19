@@ -8,6 +8,8 @@ You will need a terminal application on your computer to access Hyak. If you use
 
 ## Navigating file structures
 
+As part of their "Tutorial: Hyak Basics," the Hyak team has prepared a [section about navigating the Hyak file system](https://hyak.uw.edu/docs/hyak101/basics/system), which is demonstrated in  [the accompanying training video](https://youtu.be/WqGCJMQhiC0). 
+
 https://linuxjourney.com/lesson/the-shell
 
 
