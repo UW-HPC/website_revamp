@@ -2,7 +2,11 @@
 
 
 
-**Brenden Pelkie**  
+**Brenden Pelkie** 
+
+
+<img src="Assets/image.png" width=200 height=200>
+
 President  
 
 
