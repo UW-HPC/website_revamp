@@ -1,7 +1,7 @@
 site_name: RCCatUW
 nav:
   - Home: index.md
-  - 'Hyak': 
+  - 'Hyak':
     - About: hyak.md
     - 'Getting Access': hyak_access.md
     - 'Terms of Service': hyak_TOS.md
@@ -17,11 +17,11 @@ theme:
   features:
     - navigation.tabs
     - navigation.footer
-  #palette: 
+  #palette:
   #  scheme: default
   #  primary: deep purple
   #  accent: amber
-  
+
 extra:
   social:
     - icon: fontawesome/brands/slack
