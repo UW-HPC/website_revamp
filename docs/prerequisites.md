@@ -30,6 +30,5 @@ Need to find a good tutorial for this
 
 To gain access to Hyak, you will need to demonstrate your *nix basics proficiency by passing the skills assessment. 
 
-Access this assessment at [] (UW NetID required). You must get the questions 100% correct, but you will get real-time feedback and can submit as many times as you need. If you are struggling to pass this assessment, consider coming to [link to office hour page] office hours to get help.
-
+Access this assessment at [https://forms.office.com/r/h7Ecdpfh2z](https://forms.office.com/r/h7Ecdpfh2z) (UW NetID required).
 
