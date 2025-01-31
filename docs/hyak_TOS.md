@@ -65,6 +65,11 @@ Heavy users are considered to be users who use more than --- compute hours on Hy
 ## Acknowledging Hyak and Reporting Publications 
 We expect you to acknowledge the use of RCC Hyak resources used in the completion of any published work that involves the use of these resources, just as you would acknowledge funding from a grant or other resource. Please also report your publications to RCC leadership. These acknowledgements help RCC show the impact of the resources we provide to people who determine future funding, so they are critical to sustaining the resources RCC provides. 
 
-This acknowledgement should include the use of Hyak and funding from the UW student technology fee (STF). An example acknowledgement is “[Parts of] This work was/were completed on Hyak, UW’s high performance computing cluster. This resource was funded by the UW student technology fee.” 
+This acknowledgement should include the use of Hyak and funding from the UW student technology fee (STF). 
+**The phrase "Funded by the Student Technology Fee" and/or the STF logo must appear on web pages, social media posts, and any other materials advertising or referencing your project.** 
+
+An example acknowledgement is:
+
+-  “[Parts of] This work was/were completed on Hyak, UW’s high performance computing cluster. This resource was funded by the UW student technology fee.” 
 
 Please report publications when asked to on user review surveys. Failure to acknowledge Hyak usage or report publications may result in loss of access to the RCC Hyak resource. Note that publishing work completed on Hyak is not a requirement, but reporting your published work is. **If you have unpublished work completed on Hyak, we would still love to hear about it!**  

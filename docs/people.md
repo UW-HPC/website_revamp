@@ -1,40 +1,31 @@
-## Academic Year 23-24 Officers
+## Academic Year 2024- 2025 Officers
 
 
 
-**Brenden Pelkie** 
-
-
-<img src="Assets/image.png" width=200 height=200>
-
+**Sam Shin** 
 President  
 
 
-**Lingnan Shen**  
-Officer  
+**Teerth Metha**  
+Vice President 
 
 
 **Nels Schimek**  
-Officer 
+Cloud Director
 
 
-**Sam Shin**  
-Officer  
+**Kenny Lam**  
+Hyak Director 
 
 
-**Nino Migineishvili**  
-Officer  
+**Lingnan Shen**  
+AI/ML Director 
 
 
-**Teerth Mehta**  
-Officer  
-  
-**Varich Boonsanong**   
-Officer  
 
 ## Advisors
 
-**Professor Xiasong Li**  
+**Ting Cao**  
 Faculty Advisor
 
 
