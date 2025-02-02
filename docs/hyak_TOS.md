@@ -4,7 +4,7 @@ All users of the RCC/STF resources on Hyak must agree to the RCC Hyak terms of s
 
 ## Eligibility
 
-UW-Seattle students who pay the student technology fee (STF) for the current quarter are eligible to use RCC Hyak resources. This includes undergraduate and graduate students. Non-Seattle students are not currently eligible for general membership but can get access for one quarter as part of a *goodwill exemption policy* (see below). Students must join Research Computing Club before accessing Hyak. See [Joining RCC Requirments Page, do not have link yet] for RCC requirements. Access will be maintained over the summer quarter for students who have not graduated. Postdocs, faculty, staff, or other UW affiliated people are not eligible.
+UW-Seattle students who pay the student technology fee (STF) for the current quarter are eligible to use RCC Hyak resources. This includes undergraduate and graduate students. Non-Seattle students are not currently eligible for general membership but can get access for one quarter as part of a *goodwill exemption policy* (see below). Students must join Research Computing Club before accessing Hyak. Access will be maintained over the summer quarter for students who have not graduated. Postdocs, faculty, staff, or other UW affiliated people are not eligible.
 
 Students who experience short-term lapses in eligibility (e.g., going on leave for a quarter) should contact RCC leadership to make arrangements to preserve their files and access during their absence.
 
@@ -28,7 +28,7 @@ Some activities may fall into a gray area between personal development and comme
 
 ## Getting Access to Hyak
 
-The full procedure for gaining access to the Hyak RCC/STF account is posted at {}. This procedure involves:
+The full procedure for gaining access to the Hyak STF account is posted at [[Getting Access]](hyak_access.md/). This procedure involves:
 
 - Establishing eligibility, as described in the eligibility section
 
@@ -40,9 +40,9 @@ The full procedure for gaining access to the Hyak RCC/STF account is posted at {
 
 ## Storage Usage
 
-Storage on Hyak is provided for direct usage by jobs running on Hyak. This storage should be temporary and should *not* be considered ‘safe’ in any way. RCC users may use the storage space available at /mmfs1/gscratch/stf.
+Storage on Hyak is provided for direct usage by jobs running on Hyak. This storage should be temporary and should *not* be considered ‘safe’ in any way. RCC users may use the storage space available at `/mmfs1/gscratch/stf`.
 
-All STF users must comply with storage use limits described below. By using STF resources on Hyak, users understand that all storage provided at /mmfs1/gscratch/stf  is to be used for temporary storage of job-related files and that RCC or UWIT makes no guarantee of storage availability. Users understand that any files in excess of the published posted limits will be deleted without notice. Files associated with users who are no longer eligible to user Hyak will also be deleted without notice. RCC or UWIT are not responsible for the loss of files stored in /mmfs1/gscratch/stf for any reason. **It is the responsibility of users to back up their files**.
+All STF users must comply with storage use limits described below. By using STF resources on Hyak, users understand that all storage provided at `/mmfs1/gscratch/stf`  is to be used for temporary storage of job-related files and that RCC or UW-IT makes no guarantee of storage availability. Users understand that any files in excess of the published posted limits will be deleted without notice. Files associated with users who are no longer eligible to use Hyak may be deleted without notice. RCC or UW-IT are not responsible for the loss of files stored in `/mmfs1/gscratch/stf` for any reason. **It is the responsibility of users to back up their files**.
 
 ### Storage usage limits
 
@@ -54,7 +54,7 @@ RCC has put in place resource quotas to limit the impact of individual high-use 
 
 ## Community Contributions
 
-The resources provided by RCC are only available due to the contributions of dedicated student volunteers. RCC seeks to foster a culture of community contributions to ensure the sustainability of these resources. All Hyak users are strongly encouraged to consider making community contributions. Heavy users of RCC resources will be required to make meaningful contributions to the sustainability of RCC.
+The resources provided by RCC are only available due to the contributions of dedicated student volunteers. RCC seeks to foster a culture of community contributions to ensure the sustainability of these resources. All Hyak users are strongly encouraged to consider making community contributions. Heavy users of RCC resources may be asked to make meaningful contributions to the sustainability of RCC.
 
 Heavy users are considered to be users who use more than --- compute hours on Hyak per year. You can check your annual usage with the command [---]. Community contributions for heavy users will be audited annually on the basis of the previous 12 month’s compute usage. Heavy users who fail to make a good-faith effort to meet their contribution obligations will lose access to RCC resources. Examples of community contributions include:
 
@@ -71,7 +71,7 @@ Heavy users are considered to be users who use more than --- compute hours on Hy
 We expect you to acknowledge the use of RCC Hyak resources used in the completion of any published work that involves the use of these resources, just as you would acknowledge funding from a grant or other resource. Please also report your publications to RCC leadership. These acknowledgements help RCC show the impact of the resources we provide to people who determine future funding, so they are critical to sustaining the resources RCC provides.
 
 This acknowledgement should include the use of Hyak and funding from the UW student technology fee (STF).
-**The phrase "Funded by the Student Technology Fee" and/or the STF logo must appear on web pages, social media posts, and any other materials advertising or referencing your project.**
+The phrase "Funded by the Student Technology Fee" and/or the STF logo must appear on web pages, social media posts, and any other materials advertising or referencing your project.
 
 An example acknowledgement is:
 

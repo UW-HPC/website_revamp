@@ -33,4 +33,5 @@ extra_css:
 
 markdown_extensions:
     - pymdownx.blocks.html
+    - pymdownx.highlight
 
