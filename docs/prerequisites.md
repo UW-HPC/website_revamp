@@ -4,11 +4,11 @@ Before you can use Hyak, you must meet a few preerequisites related to using the
 
 ## Getting a terminal on your local computer
 
-You will need a terminal application on your computer to access Hyak. If you use a mac or run linux, you already have this. If you use Windows, you will need to install it. We reccomend using Windows Subsytem for Linux (WSL2) for this. This is a service that lets you run a full linux system on windows and gives you access to many of the tools you will need to access Hyak. Follow the instructions at [https://learn.microsoft.com/en-us/windows/wsl/]<https://learn.microsoft.com/en-us/windows/wsl/> to install.
+You will need a terminal application on your computer to access Hyak. If you use a mac or run linux, you already have this. If you use Windows, you will need to install it. We reccomend using Windows Subsytem for Linux (WSL2) for this. This is a service that lets you run a full linux system on windows and gives you access to many of the tools you will need to access Hyak. Follow the instructions at [https://learn.microsoft.com/en-us/windows/wsl/](https://learn.microsoft.com/en-us/windows/wsl/) to install.
 
 ## Navigating file structures
 
-Follow this [link](https://linuxjourney.com/lesson/the-shell) to learn about navigating file structures.
+Follow this [[link]](https://linuxjourney.com/lesson/the-shell) to learn about navigating file structures.
 
 ## Editing text files
 
@@ -16,15 +16,15 @@ Most jobs you run on Hyak will involve editing text files with configuration inf
 
 On Hyak, you can use Vim, Emacs, or Nano. Each has its advantages and drawbacks. We suggest picking one and becoming comfortable with it.
 
-[Intro to Vim and Emacs](https://linuxjourney.com/lesson/regular-expressions-regex)
+[[Intro to Vim and Emacs]](https://linuxjourney.com/lesson/regular-expressions-regex)
 
-[Intro to Nano](https://linuxize.com/post/how-to-use-nano-text-editor/)
+[[Intro to Nano]](https://linuxize.com/post/how-to-use-nano-text-editor/)
 
-When working with files, you may also need to modify [file permissions](https://linuxjourney.com/lesson/file-permissions).
+When working with files, you may also need to modify [[file permissions]](https://linuxjourney.com/lesson/file-permissions).
 
 ## Accessing remote machines with SSH
 
-Need to find a good tutorial for this
+<!-- Need to find a good tutorial for this -->
 
 <!-- ## Asesssment
 
