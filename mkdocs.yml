@@ -3,9 +3,9 @@ nav:
   - Home: index.md
   - 'Hyak':
     - About: hyak.md
-    - 'Getting Access': hyak_access.md
     - 'Terms of Service': hyak_TOS.md
     - Prereqs: 'prerequisites.md'
+    - 'Getting Access': hyak_access.md
   - 'Cloud': cloud.md
   - Events: events.md
   - People: people.md
