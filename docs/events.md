@@ -12,11 +12,11 @@ The Research Computing Club officers host office hours every term where club mem
 | ------------- | :-----------:     | -----:   |
 | Sam Shin      | Tuesday, Jan 21st | 12 PM    |
 | Sam Shin      | Tuesday, Jan 28th |  1 PM    |
-| Lingnan Shen  | Tuesday, Feb 11th |  10 AM   |
+| Lingnan Shen  | Friday, Feb 7th   |  12 PM   |
 | Teerth Mehta  | Tuesday, Feb 18th | 11:30 AM |
 | Teerth Metha  | Tuesday, Feb 25th | 11:30 AM |
 | Kenny Lam     | Monday, March 3rd | 3 PM     |
-| Lingnan Shen  |Tuesday, March 11th| 10 AM    |
+| Lingnan Shen  | Friday, March 14th| 12 PM    |
 
 ## Hyak Trainings
 
