@@ -6,12 +6,13 @@ Hyak is UW's high performance computing resource. Research Computing Club mainta
 
 RCC has the following resources on Klone. Thanks to a block funding allocation from the UW Student Technology Fee committee, we are constantly expanding our klone slice footprint.
 
-| Partition       | Number of Slices  | CPU Cores (per slice) | Memory (per slice) | GPU                     |
-|-----------------|-------------------|-----------------------|--------------------|-------------------------|
-| compute         | 16                | 40                    | 192 GB             | N/A                     |
-| cpu-g2-mem2x    | 6                 | 32                    | 512 GB             | N/A                     |
-| gpu-2080ti      | 1                 | 40                    | 363 GB             | 8 2080-Ti               |
-|  L40            | 4                 | 32                    | 384 GB             | 2 L40 (48GB GPU Memory) |
-
-<!-- |  L40s           | 4                 | 32                    | 384 GB             | 2 L40s (48GB GPU Memory) |
-| compute-hugemem | ?                |  ?                    | ?             | N/A                     | -->
+    *TOTALS* (Columns 6 - 8)*
+| 1. Partition  | 2. Number of Slices | 3. CPU Cores (per slice) | 4. Memory (per slice) | 5. GPU Cards (per slice) | 6. Number of Nodes | 7. Memory (per Node) | 8. GPUs |
+|---|---|---|---|---|---|---|---|
+|compute|16|16|192 GB|N/A|16|192GB|N/A|
+|cpu-g2-mem2x|6|32|512 GB|N/A|1|3072 GB|N/A|
+|gpu-2080ti|1|40|384 GB|8|1|384 GB|8| 
+|gpu-l40|4|32|384 GB|8|1|1536 GB|8|
+|gpu-l40s|4|32|384 GB|8|1|1536 GB|8|
+|compute-hugemem|3|40|750 GB|N/A|3|750 GB|N/A|
+|interactive|1|1|192 GB|N/A|1|192 GB|N/A|
