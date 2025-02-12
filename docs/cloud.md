@@ -10,7 +10,7 @@ Students have a choice of using:
 
 In order to be considered for the program, the student must create a proposal.
 
-## Requirements of proposal:
+## Requirements of proposal
 
 - A paragraph describing the project the credits will be used for
 - A paragraph describing the cloud technologies that will be used
