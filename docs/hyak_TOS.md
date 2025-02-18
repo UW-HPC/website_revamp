@@ -1,6 +1,6 @@
 # Hyak Terms of Service
 
-All users of the RCC/STF resources on Hyak must agree to the RCC Hyak terms of service. You can read the full TOS below. Please agree to the TOS by completing this survey: [Link to microsoft forms survey]
+All users of the RCC/STF resources on Hyak must agree to the RCC Hyak terms of service. You can read the full TOS below. Please agree to the TOS by reading the entire document.
 
 ## Eligibility
 
@@ -56,7 +56,9 @@ RCC has put in place resource quotas to limit the impact of individual high-use 
 
 The resources provided by RCC are only available due to the contributions of dedicated student volunteers. RCC seeks to foster a culture of community contributions to ensure the sustainability of these resources. All Hyak users are strongly encouraged to consider making community contributions. Heavy users of RCC resources may be asked to make meaningful contributions to the sustainability of RCC.
 
-Heavy users are considered to be users who use more than --- compute hours on Hyak per year. You can check your annual usage with the command [---]. Community contributions for heavy users will be audited annually on the basis of the previous 12 month’s compute usage. Heavy users who fail to make a good-faith effort to meet their contribution obligations will lose access to RCC resources. Examples of community contributions include:
+<!-- Heavy users are considered to be users who use more than --- compute hours on Hyak per year. You can check your annual usage with the command [---]. Community contributions for heavy users will be audited annually on the basis of the previous 12 month’s compute usage. Heavy users who fail to make a good-faith effort to meet their contribution obligations will lose access to RCC resources.  -->
+
+Examples of community contributions include:
 
 - Writing a tutorial module to add to the documentation for a piece of software or other tool that you use in your work
 
