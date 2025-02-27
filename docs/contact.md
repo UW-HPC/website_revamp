@@ -11,3 +11,7 @@ The official RCC email is [hpcc@uw.edu](mailto:hpcc@uw.edu). Use this email for 
 ## If all else fails
 
 If you do not get a timely response from <hpcc@uw.edu>, you can ping individual officers on slack. Please consider the urgency of your request when resorting to this and respect that officers are busy students managing RCC on a volunteer basis.
+
+## Get Involved
+
+Reach out to the [[RCC officers]](https://depts.washington.edu/uwrcc/people/) if you are interested in volunteering or becoming more involved with RCC. 

@@ -13,3 +13,4 @@ Research Computing Club membership is open to UW-Seattle students who are curren
 1. Join RCC on [[Husky Link]](https://huskylink.washington.edu/organization/rcc)
 2. Join the [[RCC Slack workspace]](https://join.slack.com/t/uw-rcc/shared_invite/zt-2l7ab48ar-S_SbfLiCsdpF~ofbCR0yIg).
 3. Join the [[RCC email list]](http://mailman12.u.washington.edu/mailman/listinfo/hpc-list).
+4. Join the [[Hyak updates email list]](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users)
