@@ -13,7 +13,7 @@
 Once you receive an email stating that your access has been granted, there's a few more steps:
 
 1. Make sure two-factor authentication is set up. It almost certainly is, but you can check this at [https://itconnect.uw.edu/tools-services-support/access-authentication/2fa/](https://itconnect.uw.edu/tools-services-support/access-authentication/2fa/).
-2. Be sure to [**subscribe to the Hyak mailing list**](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) for reminders about monthly maintenance and training opportunity announcements. 
+2. Be sure to [[**Subscribe to the Hyak mailing list**]](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) for reminders about monthly maintenance and training opportunity announcements.
 3. Add Hyak as a service on your UW netid.
     1. Go to [https://uwnetid.washington.edu/manage/](https://uwnetid.washington.edu/manage/)
     2. Click the “Computing Services” bar on the left. In the “Inactive Services” section, check the boxes titled “Hyak Server”. Note: sometimes these options aren’t immediately available; if, a day or so after getting added to the STF group you still don’t see these options, email <hpcc@uw.edu> or message an officer on slack.
