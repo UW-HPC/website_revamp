@@ -19,3 +19,6 @@ AI/ML Director
 
 **Ting Cao** |
 Faculty Advisor
+
+**Kristen Finch** |
+UW-IT Research Computing Representative

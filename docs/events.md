@@ -10,23 +10,20 @@ The Research Computing Club officers host office hours every term where club mem
 
 | Host        |      Date           |   Time   |
 | ------------- | :-----------:     | -----:   |
-| Sam Shin      | Tuesday, Jan 21st | 12 PM    |
-| Sam Shin      | Tuesday, Jan 28th |  1 PM    |
-| Lingnan Shen  | Friday, Feb 7th   |  12 PM   |
-| Teerth Mehta  | Tuesday, Feb 18th | 11:30 AM |
-| Teerth Metha  | Tuesday, Feb 25th | 11:30 AM |
 | Kenny Lam     | Monday, March 3rd | 3 PM     |
 | Lingnan Shen  | Friday, March 14th| 12 PM    |
 
+## Office Hours with Hyak Staff
+
+* **Wednesdays at 2pm on Zoom**. Attendees need only register once and can attend any of the occurrences with the Zoom link that will arrive via email. [[Click here to Register for Zoom Office Hours]](https://washington.zoom.us/meeting/register/tJMpce6vrz8sEtR5miKvhsQiXANt6lBORFTu).
+
+* **Thursdays at 2pm in person in eScience**. (address: WRF Data Science Studio, UW Physics/Astronomy Tower, 6th Floor, 3910 15th Ave NE, Seattle, WA 98195). [[Click here to visit the eScience Office Hours page]](https://escience.washington.edu/using-data-science/office-hours#office-hour-schedule) to see additional eScience office hours including AI/ML, R, Earth Data, and Python (not available to help with Homework).
+
 ## Hyak Trainings
 
-**Hyak: Open OnDemand**
+[[Subscribe to subscribe to the Hyak mailing list]](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) to receive monthly training announcements. 
 
-Open OnDemand (OOD) is an open-source web portal for HPC centers to provide users with an easy-to-use web interface to HPC clusters. For the last year, the Hyak team has been adding features to OOD.
-
-This workshop will demonstrate OOD's main features such as exploring the filesystem, composing jobs, and launching interactive applications like Jupyter. **_This workshop will be held in person 10am - 11:30am on Friday January, 31, 2025 in CSE2 (Gates Center) Room 371 (3800 E Stevens Way NE, Seattle, WA 98195)._**
-
-[Click here to learn more and register for the event](https://form.jotform.com/finchkn/hyak-open-ondemand)
+Hyak training sessions are recorded and available through the [[Research Computing Training Playlist on UW-IT's YouTube channel]](https://youtube.com/playlist?list=PL-uLiqrTav1omqc7omKsLzRg2ng3nKCtj&si=ACwxjc0PV67AQfxm)
 
 ## Hackathon
 

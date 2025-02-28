@@ -6,9 +6,9 @@ Before you can use Hyak, you must meet a few preerequisites related to using the
 
 You will need a terminal application on your computer to access Hyak. If you use a mac or run linux, you already have this. If you use Windows, you will need to install it. We reccomend using Windows Subsytem for Linux (WSL2) for this. This is a service that lets you run a full linux system on windows and gives you access to many of the tools you will need to access Hyak. Follow the instructions at [https://learn.microsoft.com/en-us/windows/wsl/](https://learn.microsoft.com/en-us/windows/wsl/) to install.
 
-## Navigating file structures
+## Hyak Basics
 
-Follow this [[link]](https://linuxjourney.com/lesson/the-shell) to learn about navigating file structures.
+Follow this [[link]](https://hyak.uw.edu/docs/hyak101/basics/syllabus) to complete the Hyak Basics Tutorial which includes basic Linux fundamentals tailored to Hyak users.
 
 ## Editing text files
 
@@ -22,7 +22,7 @@ On Hyak, you can use Vim, Emacs, or Nano. Each has its advantages and drawbacks.
 
 When working with files, you may also need to modify [[file permissions]](https://linuxjourney.com/lesson/file-permissions).
 
-## Accessing remote machines with SSH
+<!-- ##Accessing remote machines with SSH -->
 
 <!-- Need to find a good tutorial for this -->
 
