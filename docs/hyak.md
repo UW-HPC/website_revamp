@@ -2,6 +2,14 @@
 
 Hyak is UW's high performance computing resource. Research Computing Club maintains a large account on Hyak's Klone cluster. This includes standard compute, GPU, and large memory nodes. Hyak is well suited to 'traditional' job-based computing workflows such as molecular dynamics, DFT, and machine learning model training. Most users should start with Hyak before considering cloud resources. Information on using Hyak can be found in the [[documentation]](https://hyak.uw.edu/docs).
 
+## Hyak Trainings
+
+Find step-by-step instructions and tutorials for common tools in Hyak's [[Documentation]](https://hyak.uw.edu/docs)
+
+Hyak training sessions are recorded and available through the [[Research Computing Training Playlist on UW-IT's YouTube channel]](https://youtube.com/playlist?list=PL-uLiqrTav1omqc7omKsLzRg2ng3nKCtj&si=ACwxjc0PV67AQfxm)
+
+[[Subscribe to subscribe to the Hyak mailing list]](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) to receive monthly training announcements.
+
 ## RCC Resources
 
 RCC has the following resources on Klone. Thanks to a block funding allocation from the UW Student Technology Fee committee, we are constantly expanding our klone slice footprint.
