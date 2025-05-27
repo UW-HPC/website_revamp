@@ -1,27 +1,29 @@
-site_name: RCCatUW
+site_name: University of Washington Research Computing Club
+site_description: 'The Research Computing Club at the University of Washington provides resources and support for researchers.'
+site_author: 'Research Computing Club at the University of Washington'
+
 nav:
   - Home: index.md
-  - 'Hyak':
-    - About: hyak.md
-    - 'Terms of Service': hyak_TOS.md
-    - Prereqs: 'prerequisites.md'
-    - 'Getting Access': hyak_access.md
-  - 'Cloud': cloud.md
+  - Hyak:
+      - About: hyak.md
+      - Terms of Service: hyak_TOS.md
+      - Prereqs: prerequisites.md
+      - Getting Access: hyak_access.md
+  - Cloud: cloud.md
   - Events: https://calendar.washington.edu/sea_uwit-rc
   - People: people.md
   - Contact: contact.md
   - Governance: RCC_governance.md
   - Get Involved: get-involved.md
-#site_url: http://localhost/RCCatUW
+
 theme:
   name: material
+  logo: logo.png
+  favicon: logo.png
   features:
     - navigation.tabs
     - navigation.footer
-  #palette:
-  #  scheme: default
-  #  primary: deep purple
-  #  accent: amber
+
 
 extra:
   social:
@@ -29,10 +31,10 @@ extra:
       link: https://join.slack.com/t/uw-rcc/shared_invite/zt-2l7ab48ar-S_SbfLiCsdpF~ofbCR0yIg
     - icon: fontawesome/solid/paper-plane
       link: mailto:hpcc@uw.edu
+
 extra_css:
   - stylesheets/extra.css
 
 markdown_extensions:
-    - pymdownx.blocks.html
-    - pymdownx.highlight
-
+  - pymdownx.blocks.html
+  - pymdownx.highlight

@@ -4,7 +4,7 @@ Research Computing Club at the University of Washington is a registered student 
 
 ## Resources
 
-RCC makes high performance computing resources available in the form of high performance computing cluster access and a cloud credit program. We maintain a large account on [Hyak](https://hyak.uw.edu/), UW's HPC cluster. This account provides access to CPU and GPU nodes. Our cloud credit program gives students additional flexibility in selecting compute resources.
+RCC makes high performance computing resources available in the form of high performance computing cluster access and a cloud credit program. We maintain a large account on [[Hyak]](https://hyak.uw.edu/), UW's HPC cluster. This account provides access to CPU and GPU nodes. Our cloud credit program gives students additional flexibility in selecting compute resources.
 
 ## Joining RCC
 
