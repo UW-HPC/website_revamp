@@ -22,3 +22,6 @@ Faculty Advisor
 
 **Kristen Finch** |
 UW-IT Research Computing Representative
+
+**Kaichen Xie** |
+UW-IT Research Computing Representative
