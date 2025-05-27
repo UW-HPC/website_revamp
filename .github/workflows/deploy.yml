@@ -8,10 +8,12 @@ on:
     types: [closed]
     branches:
       - main
+  workflow_dispatch:  # ✅ Enables the "Run workflow" button on GitHub
 
 jobs:
   deploy:
-    if: github.event.pull_request.merged == true || github.event_name == 'push'
+    # Run only if it's a push or a merged pull request or manually triggered
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch' || (github.event_name == 'pull_request' && github.event.pull_request.merged == true)
     runs-on: ubuntu-latest
 
     steps:
