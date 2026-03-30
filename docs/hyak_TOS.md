@@ -14,7 +14,7 @@ Students who experience short-term lapses in eligibility (e.g., going on leave f
 
 RCC Hyak resources are intended to be used for academic, personal, and professional advancement by students. These resources should not be used for commercial work. In general, Hyak should be used for class-related assignments, academic research, and personal learning projects. Hyak cannot be used to perform commercial services for pay (ex: paid consulting/contracting work for a startup).
 
-In compliance with UW use of [<ins>**equipment policies**</ins>](https://finance.uw.edu/eio/equipment-lifecycle/proper-use-equipment/personal-use-equipment), the **RCC account on Hyak may *not* be used for**:
+In compliance with UW use of [equipment policies](https://finance.uw.edu/eio/equipment-lifecycle/proper-use-equipment/personal-use-equipment), the **RCC account on Hyak may *not* be used for**:
 
 - Conducting an outside business; supporting, promoting, or soliciting for an outside organization or group unless otherwise provided by law;
 
@@ -28,7 +28,7 @@ Some activities may fall into a gray area between personal development and comme
 
 ## Getting Access to Hyak
 
-The full procedure for gaining access to the Hyak STF account is posted at [<ins>**Getting Access**</ins>](hyak_access.md/). This procedure involves:
+The full procedure for gaining access to the Hyak STF account is posted at [Getting Access](hyak_access.md/). This procedure involves:
 
 - Establishing eligibility, as described in the eligibility section
 

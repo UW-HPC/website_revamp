@@ -8,3 +8,8 @@
 .md-header__button.md-logo img {
   height: 90px;
 }
+
+.md-main a {
+  text-decoration: underline;
+  font-weight: bold;
+}

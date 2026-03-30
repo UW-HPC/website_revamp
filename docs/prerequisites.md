@@ -8,16 +8,16 @@ the shell or via Open OnDemand.
 
 ## Before You Login
 
-[<ins>**Ensure you have reviewed the login requirements.**</ins>](https://github.com/UWrc/linux-fundamentals.git)
+[Ensure you have reviewed the login requirements.](https://github.com/UWrc/linux-fundamentals.git)
 
 ## Hyak Basics
 
-* [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git).
-* [<ins>**Review the Hyak Short How-To Video Collection**</ins>](https://hyak.uw.edu/learn)
-    * [<ins>**Hyak Klone Login**</ins>](https://youtu.be/gbse1xqezqk)
-    * [<ins>**Hyak Home Directories**</ins>](https://youtu.be/OhLwqAZIBOo)
-    * [<ins>**Hyak Klone Filesystem**</ins>](https://youtu.be/VFGREiZ37x0)
-    * [<ins>**Hyak Klone Slurm**</ins>](https://youtu.be/jgHXB7IfGPQ?si=0lFpU_ujrQoUUmyb)
+* [Complete the Linux Fundamentals Tutorial](https://github.com/UWrc/linux-fundamentals.git).
+* [Review the Hyak Short How-To Video Collection](https://hyak.uw.edu/learn)
+    * [Hyak Klone Login](https://youtu.be/gbse1xqezqk)
+    * [Hyak Home Directories](https://youtu.be/OhLwqAZIBOo)
+    * [Hyak Klone Filesystem](https://youtu.be/VFGREiZ37x0)
+    * [Hyak Klone Slurm](https://youtu.be/jgHXB7IfGPQ?si=0lFpU_ujrQoUUmyb)
 
 ## Editing text files
 
@@ -25,8 +25,8 @@ Most jobs you run on Hyak will involve editing text files with configuration inf
 
 On Hyak, you can use Vim, Emacs, or Nano. Each has its advantages and drawbacks. We suggest picking one and becoming comfortable with it.
 
-* [<ins>**Intro to Vim and Emacs**</ins>](https://linuxjourney.com/lesson/regular-expressions-regex)
-* [<ins>**Intro to Nano**</ins>](https://linuxize.com/post/how-to-use-nano-text-editor/)
+* [Intro to Vim and Emacs](https://linuxjourney.com/lesson/regular-expressions-regex)
+* [Intro to Nano](https://linuxize.com/post/how-to-use-nano-text-editor/)
 
 
 <!-- ##Accessing remote machines with SSH -->
