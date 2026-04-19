@@ -23,7 +23,7 @@ The Research Computing Club officers host office hours every term where club mem
 
 [<ins>**Subscribe to subscribe to the Hyak mailing list**</ins>](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) to receive monthly training announcements.
 
-Hyak training sessions are recorded and available through the [<ins>**Research Computing Training Playlist on UW-IT's YouTube channel**</ins>](https://youtube.com/playlist?list=PL-uLiqrTav1omqc7omKsLzRg2ng3nKCtj&si=ACwxjc0PV67AQfxm)
+Hyak training sessions are recorded and available through the [<ins>**Research Computing Training Playlist on UWIT's YouTube channel**</ins>](https://youtube.com/playlist?list=PL-uLiqrTav1omqc7omKsLzRg2ng3nKCtj&si=ACwxjc0PV67AQfxm)
 
 ## Hackathon
 

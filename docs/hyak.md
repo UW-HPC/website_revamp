@@ -11,17 +11,68 @@ Hyak is UW's high performance computing resource. Research Computing Club mainta
 
 ## RCC Resources
 
-RCC has the following resources on Klone. Thanks to a block funding allocation from the UW Student Technology Fee committee, we are constantly expanding our klone slice footprint.
+RCC has the following resources on Klone. Thanks to a block funding allocation from the UW Student Technology Fee committee, we are constantly expanding our Hyak Klone equipment holdings.
 
-| 1. Partition  | 2. Number of Slices | 3. CPU Cores (per slice) | 4. Memory (per slice) | 5. GPU Cards (per slice) | 6. Number of Nodes | 7. Memory (per Node) | 8. GPUs |
-|---|---|---|---|---|---|---|---|
-|compute|16|16|192 GB|N/A|16|192GB|N/A|
-|cpu-g2|6|32|256 GB|N/A|1|1536 GB|N/A|
-|cpu-g2-mem2x|6|32|512 GB|N/A|1|3072 GB|N/A|
-|gpu-2080ti|1|40|384 GB|8|1|384 GB|8|
-|gpu-l40|4|32|384 GB|8|1|1536 GB|8|
-|gpu-l40s|4|32|384 GB|8|1|1536 GB|8|
-|compute-hugemem|3|40|750 GB|N/A|3|750 GB|N/A|
-|interactive|1|1|192 GB|N/A|1|192 GB|N/A|
+<table>
+  <caption>RCC Equipment Holdings on Hyak Klone</caption>
+  <thead>
+    <tr>
+      <th scope="col">Partition</th>
+      <th scope="col">Nodes</th>
+      <th scope="col">RAM (per Node)</th>
+      <th scope="col">GPUs (per Node)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>compute</td>
+      <td>16</td>
+      <td>192 GB</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>cpu-g2</td>
+      <td>3.33</td>
+      <td>1536 GB</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>cpu-g2-mem2x</td>
+      <td>1</td>
+      <td>3072 GB</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>gpu-2080ti</td>
+      <td>1</td>
+      <td>384 GB</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>gpu-l40</td>
+      <td>1</td>
+      <td>1536 GB</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>gpu-l40s</td>
+      <td>1.25</td>
+      <td>1536 GB</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>compute-hugemem</td>
+      <td>3</td>
+      <td>750 GB</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>interactive</td>
+      <td>1</td>
+      <td>192 GB</td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
 
 ![Student Tech Fee Logo](./img/stf.png 'STF Logo')

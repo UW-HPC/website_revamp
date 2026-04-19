@@ -30,8 +30,10 @@ extra:
   social:
     - icon: fontawesome/brands/slack
       link: https://join.slack.com/t/uw-rcc/shared_invite/zt-2l7ab48ar-S_SbfLiCsdpF~ofbCR0yIg
+      name: Join us on Slack
     - icon: fontawesome/solid/paper-plane
       link: mailto:hpcc@uw.edu
+      name: Email us
 
 extra_css:
   - stylesheets/extra.css

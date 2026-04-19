@@ -1,6 +1,6 @@
 # Hyak Prerequisites
 
-“Please ensure you meet a few prerequisites before attempting to login to Hyak Klone via 
+Please ensure you meet a few prerequisites before attempting to login to Hyak Klone via 
 the shell or via Open OnDemand.
 
 * [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git)
