@@ -23,7 +23,12 @@ Thanks to a block funding allocation from the UW Student Technology Fee committe
  
 ![Student Tech Fee Logo](./img/stf.png 'STF Logo')
  
+## Microsoft Azure Education for Students
+
+Students 18 and up can get $100 in free Azure credits. As well as download software, templates, and resources to build custom apps in the cloud. Including MS Project, Server software, SQL, Visual Studio and more.
+
+[<ins>**Get Access to Azure**</ins>](https://it.uw.edu/uware/microsoft-azure-education-for-students/)
+
 ## Trainings and Office Hours
  
-* UWIT Cloud Specialists and AWS Solutions Architects hold regular drop in Office Hours. [See the UWIT Research Computing Event Calendar](https://calendar.washington.edu/sea_uwit-rc) to find a time that works for you. 
-* UWIT Research Computing works with AWS to hold regular skills training. [These opportunities are posted to the UWIT Research Computing Event Calendar](https://calendar.washington.edu/sea_uwit-rc).
+* UWIT Cloud Specialists and AWS Solutions Architects host regular drop in Office Hours and special training events. [<ins>**See the UWIT Research Computing Event Calendar**</ins>](https://calendar.washington.edu/sea_uwit-rc).

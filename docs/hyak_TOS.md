@@ -42,7 +42,7 @@ The full procedure for gaining access to the Hyak STF account is posted at [Gett
 
 Storage on Hyak is provided for direct usage by jobs running on Hyak. This storage should be temporary and should *not* be considered ‘safe’ in any way. RCC users may use the storage space available at `/mmfs1/gscratch/stf`.
 
-All STF users must comply with storage use limits described below. By using STF resources on Hyak, users understand that all storage provided at `/mmfs1/gscratch/stf`  is to be used for temporary storage of job-related files and that RCC or UW-IT makes no guarantee of storage availability. Users understand that any files in excess of the published posted limits will be deleted without notice. Files associated with users who are no longer eligible to use Hyak may be deleted without notice. RCC or UW-IT are not responsible for the loss of files stored in `/mmfs1/gscratch/stf` for any reason. **It is the responsibility of users to back up their files**.
+All STF users must comply with storage use limits described below. By using STF resources on Hyak, users understand that all storage provided at `/mmfs1/gscratch/stf`  is to be used for temporary storage of job-related files and that RCC or UWIT makes no guarantee of storage availability. Users understand that any files in excess of the published posted limits will be deleted without notice. Files associated with users who are no longer eligible to use Hyak may be deleted without notice. RCC or UWIT are not responsible for the loss of files stored in `/mmfs1/gscratch/stf` for any reason. **It is the responsibility of users to back up their files**.
 
 ### Storage usage limits
 
