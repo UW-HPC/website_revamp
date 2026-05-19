@@ -1,18 +1,10 @@
-# Hyak Prerequisites
-
-Please ensure you meet a few prerequisites before attempting to login to Hyak Klone via 
-the shell or via Open OnDemand.
-
-* [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git)
-* [<ins>**Review the Hyak Short How-To Video Collection:**</ins>](https://hyak.uw.edu/learn) 
-
-## Before You Login
+# Before you login
 
 [<ins>**Ensure you have reviewed the login requirements.**</ins>](https://github.com/UWrc/linux-fundamentals.git)
 
-## Hyak Basics
+## Hyak Prerequisites
 
-* [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git).
+* [<ins>**Complete the Linux Fundamentals Tutorial**</ins>](https://github.com/UWrc/linux-fundamentals.git)
 * [<ins>**Review the Hyak Short How-To Video Collection**</ins>](https://hyak.uw.edu/learn)
     * [<ins>**Hyak Klone Login**</ins>](https://youtu.be/gbse1xqezqk)
     * [<ins>**Hyak Home Directories**</ins>](https://youtu.be/OhLwqAZIBOo)

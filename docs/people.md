@@ -1,7 +1,6 @@
 # Academic Year 2025-2026 Officers
 
-**Kenny Lam** |
-President
+**Kenny Lam** | President
 
 ## Officers
 
