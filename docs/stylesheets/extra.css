@@ -12,3 +12,17 @@
 .md-copyright {
   color: #ffffffbb;
 }
+
+.md-main a {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.md-footer__direction {
+  opacity: 1;
+}
+
+.md-footer__link--next:hover, .md-footer__link--prev:hover {
+  text-decoration: underline;
+  opacity: 1;
+}

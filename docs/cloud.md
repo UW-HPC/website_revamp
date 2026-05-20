@@ -12,7 +12,7 @@ In order to be considered for the program, the student must create a proposal.
 - A paragraph describing the cloud technologies that will be used
 - A cost estimate and a description of any relevant administrative details regarding the project such as students involved, time frame, and exit strategy
 
- To **submit a proposal**, fill out the following form [here](https://forms.gle/d4wnSHW7pEo4baCz5) and send an email to [hpcc@uw.edu](mailto:hpcc@uw.edu).
+ To **submit a proposal**, fill out the [application form](https://forms.gle/d4wnSHW7pEo4baCz5) and send an email to [hpcc@uw.edu](mailto:hpcc@uw.edu).
  
 ### Program Terms
 
