@@ -17,9 +17,9 @@ In order to be considered for the program, the student must create a proposal.
 ### Program Terms
 
 * Awarded Cloud credits must be used within **6 months of account access**.
-* Students should have a exit strategy to remove any irreplacable data or results. Project files and data will be purged at project end. 
+* Students should have a exit strategy to remove any irreplaceable data or results. Project files and data will be purged at project end. 
 
-Thanks to a block funding allocation from the UW Student Technology Fee committee, we are able to support student reseach and cloud computing.
+Thanks to a block funding allocation from the UW Student Technology Fee committee, we are able to support student research and cloud computing.
  
 ![Student Tech Fee Logo](./img/stf.png 'STF Logo')
  

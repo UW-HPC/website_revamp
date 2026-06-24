@@ -6,4 +6,4 @@
 4. Read and agree to the RCC Hyak resource [terms of service](hyak_TOS.md).
 5. [Subscribe to the Hyak mailing list](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) for reminders about monthly maintenance and training opportunity announcements.
 6. Complete the [RCC Hyak skills assessment](https://forms.office.com/r/h7Ecdpfh2z). Completion of this form serves as your application for access to Hyak and will trigger the review of all requirements. 
-    * ***It may take up to 5 business days to grant access.*** If you have not heard back after 5 days, you may email [mailto: hpcc@uw.edu](hpcc@uw.edu).
+    * ***It may take up to 5 business days to grant access.*** If you have not heard back after 5 days, you may email [hpcc@uw.edu](mailto:hpcc@uw.edu) .
