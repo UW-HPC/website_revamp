@@ -43,12 +43,6 @@ RCC has the following resources on Klone. Thanks to a block funding allocation f
       <td>N/A</td>
     </tr>
     <tr>
-      <td>gpu-2080ti</td>
-      <td>1</td>
-      <td>384 GB</td>
-      <td>8</td>
-    </tr>
-    <tr>
       <td>gpu-l40</td>
       <td>1</td>
       <td>1536 GB</td>
@@ -64,12 +58,6 @@ RCC has the following resources on Klone. Thanks to a block funding allocation f
       <td>compute-hugemem</td>
       <td>3</td>
       <td>750 GB</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>interactive</td>
-      <td>1</td>
-      <td>192 GB</td>
       <td>N/A</td>
     </tr>
   </tbody>
