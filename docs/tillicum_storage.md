@@ -64,9 +64,9 @@ This space is ideal for intermediate outputs, checkpoints, and temporary data pr
 
 The **Data Commons** provides a central location for datasets that are used by multiple research groups on the cluster. Hosting shared datasets in a common location helps avoid storing duplicate copies of the same data across multiple project directories.
 
-Researchers may request that datasets be hosted in the Data Commons. Submissions are reviewed by cluster administrators before being added. [Review the Data Commons requirements and submission instructions](https://hyak.uw.edu/docs/data-commons/requirements). 
+Researchers may request that datasets be hosted in the Data Commons. Submissions are reviewed by cluster administrators before being added. [Review the Data Commons requirements and submission instructions](https://hyak.uw.edu/docs/resources/data-commons/requirements#requirements). 
 
-For more information about requesting datasets or using the Data Commons, see the [Data Commons documentation](https://hyak.uw.edu/docs/data-commons/requirements).
+For more information about requesting datasets or using the Data Commons, see the [Data Commons documentation](https://hyak.uw.edu/docs/resources/data-commons/requirements).
 
 ---
 

@@ -14,7 +14,7 @@ As an experienced user, you can co-lead the data science office hour on HPC to p
 
 ## Tutorial for Hyak Users
 
-Contribute to a short tutorial or write a blog post about a specific topic of your expertise. [The link for the Hyak website can be found here](https://hyak.uw.edu/) The Hyak team has prepared a [Contributions Guide](https://hyak.uw.edu/docs/contribute/pull-request) and GitHub Codespace for the documentation website that make preparing a pull request simple. If you would like to speak to someone on the Hyak team about your tutorial idea before getting started, email [help@uw.edu](mailto:help@uw.edu) with "Hyak tutorial idea" in the subject line.
+Contribute to a short tutorial or write a blog post about a specific topic of your expertise. [The link for the Hyak website can be found here](https://hyak.uw.edu/) The Hyak team has prepared a [Contributions Guide](https://hyak.uw.edu/docs/resources/contribution-guide/pull-request) and GitHub Codespace for the documentation website that make preparing a pull request simple. If you would like to speak to someone on the Hyak team about your tutorial idea before getting started, email [help@uw.edu](mailto:help@uw.edu) with "Hyak tutorial idea" in the subject line.
 
 ## Contribute Resources
 

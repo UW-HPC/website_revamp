@@ -5,7 +5,7 @@ Hyak is UW's high performance computing resource. Research Computing Club mainta
 ## Trainings and Office Hours
 
 * Find step-by-step instructions and tutorials for common tools in Hyak's [Documentation](https://hyak.uw.edu/docs).
-* Hyak training sessions are recorded and available. [See Hyak Learning Resource](https://hyak.uw.edu/docs/learn)
+* Hyak training sessions are recorded and available. [See Hyak Learning Resource](https://hyak.uw.edu/learn)
 * [Subscribe to subscribe to the Hyak mailing list](https://mailman1.u.washington.edu/mailman/listinfo/hyak-users) to receive monthly training announcements.
 * Hyak Specialists and RCC Officers hold regular drop in Office Hours. [See the UWIT Research Computing Event Calendar](https://calendar.washington.edu/sea_uwit-rc) to find a time that works for you. 
 
