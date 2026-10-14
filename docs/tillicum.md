@@ -23,9 +23,9 @@ As part of the application, students can describe their workflow and provide evi
 
 ### Application Review Timeline
 
-* Applications will be processed on a rolling basis every two weeks. 
+* Applications will be processed on a rolling basis. 
 * You will be notified of your application acceptance via email. 
-* Within 3-5 business days of application acceptance, you will be able to start using Tillicum and receive onboarding information. 
+* Most applications are processed within 5-7 business days. 
 
 ### Not sure if Tillicum is right for you? 
 

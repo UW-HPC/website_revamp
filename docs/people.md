@@ -1,10 +1,10 @@
 # Academic Year 2025-2026 Officers
 
 - **Kenny Lam** | President
-- Sam Shin
 - Morgan Sanger
 - Taeyun Kim
 - Ethan Li
+- Joe Sircoulomb
 
 ## Advisors
 
