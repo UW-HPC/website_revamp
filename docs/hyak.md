@@ -26,7 +26,7 @@ RCC has the following resources on Klone. Thanks to a block funding allocation f
   <tbody>
     <tr>
       <td>compute</td>
-      <td>16</td>
+      <td>17</td>
       <td>192 GB</td>
       <td>N/A</td>
     </tr>
