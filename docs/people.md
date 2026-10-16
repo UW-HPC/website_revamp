@@ -1,4 +1,4 @@
-# Academic Year 2025-2026 Officers
+# Academic Year 2026-2027 Officers
 
 - **Kenny Lam** | President
 - Morgan Sanger
