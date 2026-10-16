@@ -12,7 +12,13 @@ In order to be considered for the program, the student must create a proposal.
 - A paragraph describing the cloud technologies that will be used
 - A cost estimate and a description of any relevant administrative details regarding the project such as students involved, time frame, and exit strategy
 
- To **submit a proposal**, fill out the [application form](https://forms.gle/d4wnSHW7pEo4baCz5) and send an email to [hpcc@uw.edu](mailto:hpcc@uw.edu).
+### Applying for Access
+Before applying for Cloud credits or using RCC resources, you must [join RCC](https://depts.washington.edu/uwrcc/#joining-rcc): 
+
+1. Join RCC on [Husky Link](https://huskylink.washington.edu/rcc/club_signup)
+2. Join the [RCC Slack Workspace](https://join.slack.com/t/uw-rcc/shared_invite/zt-2l7ab48ar-S_SbfLiCsdpF~ofbCR0yIg)
+3. Join the [RCC email list](http://mailman12.u.washington.edu/mailman/listinfo/hpc-list)
+4. **Submit a proposal** by filling out the [application form](https://forms.gle/d4wnSHW7pEo4baCz5) and sending an email to [hpcc@uw.edu](mailto:hpcc@uw.edu).
  
 ### Program Terms
 

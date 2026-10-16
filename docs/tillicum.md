@@ -14,18 +14,24 @@ This program is intended to **expand student access to advanced computing resour
 
 As part of the application, students can describe their workflow and provide evidence of project readiness. Projects that demonstrate the ability to benefit from high-capacity GPUs or multi-GPU workflows will receive higher technical scores during review.
 
-[Apply Now](https://uwconnect.uw.edu/it?id=sc_cat_item&sys_id=6faf5039870a72906f1997dd3fbb355c)
+### Applying for Access
+Before applying for Tillicum credits or using RCC resources, you must [join RCC](https://depts.washington.edu/uwrcc/#joining-rcc): 
+
+1. Join RCC on [Husky Link](https://huskylink.washington.edu/rcc/club_signup)
+2. Join the [RCC Slack Workspace](https://join.slack.com/t/uw-rcc/shared_invite/zt-2l7ab48ar-S_SbfLiCsdpF~ofbCR0yIg)
+3. Join the [RCC email list](http://mailman12.u.washington.edu/mailman/listinfo/hpc-list)
+4. Submit your [application](https://uwconnect.uw.edu/it?id=sc_cat_item&sys_id=6faf5039870a72906f1997dd3fbb355c)
+
+### Application Review Timeline
+
+* Applications will be processed on a rolling basis. 
+* You will be notified of your application acceptance via email. 
+* Most applications are processed within 5-7 business days. 
 
 ### Program Terms
 
 * Awarded Tillicum credits must be used within **6 months of account access**.
 * Project [storage](./tillicum_storage.md) on Tillicum is temporary. **Students are responsible for removing any data they wish to keep before their project ends.** Data remaining after the project period may be deleted.
-
-### Application Review Timeline
-
-* Applications will be processed on a rolling basis every two weeks. 
-* You will be notified of your application acceptance via email. 
-* Within 3-5 business days of application acceptance, you will be able to start using Tillicum and receive onboarding information. 
 
 ### Not sure if Tillicum is right for you? 
 
